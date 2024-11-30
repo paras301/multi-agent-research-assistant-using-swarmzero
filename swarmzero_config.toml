@@ -1,5 +1,5 @@
 [model]
-model = "gpt-4o-mini"
+model = "gemini-1.5-flash"
 
 [environment]
 type = "dev"
